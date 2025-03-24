@@ -5,7 +5,7 @@ import PerezCaldera.figura.Figura;
 public class Menu {
     public static void principal( )
     {
-        System.out.println( "welcome");
+        System.out.println( "Bienvenido usari@");
         System.out.println( "Selecciona una opción");
         System.out.println( "1.- Cuadrado");
         System.out.println( "2.- Equilatero");
